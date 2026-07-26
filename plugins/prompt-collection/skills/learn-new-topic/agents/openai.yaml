@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn a New Topic"
+  short_description: "Learn unfamiliar topics through adaptive Q&A"
+  default_prompt: "Use $learn-new-topic to teach me a subject I know nothing about."

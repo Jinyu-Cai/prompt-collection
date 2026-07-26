@@ -1,0 +1,32 @@
+{
+  "name": "prompt-collection",
+  "version": "0.1.0",
+  "description": "Reusable learning and education workflows for ChatGPT and Codex.",
+  "author": {
+    "name": "Jinyu Cai",
+    "url": "https://github.com/jinyu-cai"
+  },
+  "homepage": "https://github.com/jinyu-cai/prompt-collection",
+  "repository": "https://github.com/jinyu-cai/prompt-collection",
+  "keywords": [
+    "education",
+    "learning",
+    "prompts",
+    "tutoring"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Prompt Collection",
+    "shortDescription": "Learn unfamiliar topics through guided questions.",
+    "longDescription": "A collection of reusable education workflows. Start with an unfamiliar subject and build understanding through adaptive, one-question-at-a-time tutoring.",
+    "developerName": "Jinyu Cai",
+    "category": "Education",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Teach me a topic I know nothing about.",
+      "Help me learn through one question at a time."
+    ]
+  }
+}
