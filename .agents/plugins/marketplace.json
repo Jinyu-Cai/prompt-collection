@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "prompt-collection",
+      "name": "prompt-skills",
       "source": {
         "source": "local",
-        "path": "./plugins/prompt-collection"
+        "path": "./plugins/prompt-skills"
       },
       "policy": {
         "installation": "AVAILABLE",

@@ -1,13 +1,13 @@
 {
-  "name": "prompt-collection",
-  "version": "0.1.0",
+  "name": "prompt-skills",
+  "version": "0.1.0+codex.20260726214145",
   "description": "Reusable learning and education workflows for ChatGPT and Codex.",
   "author": {
     "name": "Jinyu Cai",
     "url": "https://github.com/jinyu-cai"
   },
-  "homepage": "https://github.com/jinyu-cai/prompt-collection",
-  "repository": "https://github.com/jinyu-cai/prompt-collection",
+  "homepage": "https://github.com/jinyu-cai/prompt-skills",
+  "repository": "https://github.com/jinyu-cai/prompt-skills",
   "keywords": [
     "education",
     "learning",
@@ -16,7 +16,7 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Prompt Collection",
+    "displayName": "Prompt Skills",
     "shortDescription": "Learn unfamiliar topics through guided questions.",
     "longDescription": "A collection of reusable education workflows. Start with an unfamiliar subject and build understanding through adaptive, one-question-at-a-time tutoring.",
     "developerName": "Jinyu Cai",

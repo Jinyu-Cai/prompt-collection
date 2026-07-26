@@ -1,4 +1,4 @@
-# Prompt Collection
+# Prompt Skills
 
 Prompts and reusable Skills personally crafted for different AI models.
 
@@ -25,11 +25,11 @@ automatically discoverable workflows.
 Add this repository as a plugin marketplace:
 
 ```bash
-codex plugin marketplace add jinyu-cai/prompt-collection --ref main
+codex plugin marketplace add jinyu-cai/prompt-skills --ref main
 ```
 
 Then open the ChatGPT desktop app, select ChatGPT **Work** or **Codex**, open
-**Plugins**, choose the marketplace source, and install **Prompt Collection**.
+**Plugins**, choose the marketplace source, and install **Prompt Skills**.
 
 ### ChatGPT web availability
 
