@@ -8,6 +8,7 @@ Chinese. 教育部分的 Prompt 主要面向托福学习，并使用中文回复
 ## Education
 
 - [Learn a New Topic Systematically](education/learn-a-new-topic.md) — Learn an unfamiliar subject through a knowledge map, a sourced real-world case, staged explanations, and adaptive checks.
+- [Full-Sentence English Study Workflow — Books and TV](education/full-sentence-study-workflow-books-tv.md) — Build a source-verified English study system with Codex for analysis and SiliconFlow HY for Chinese Meaning translations.
 
 ## Skills and Plugin
 
