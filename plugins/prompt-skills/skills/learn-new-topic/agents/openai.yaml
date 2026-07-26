@@ -1,4 +1,4 @@
 interface:
-  display_name: "Learn a New Topic"
-  short_description: "Learn unfamiliar topics through adaptive Q&A"
-  default_prompt: "Use $learn-new-topic to teach me a subject I know nothing about."
+  display_name: "Learn Any Topic"
+  short_description: "Learn with maps, sourced cases, and checkpoints"
+  default_prompt: "Use $learn-new-topic to teach me an unfamiliar subject from the beginning."

@@ -7,7 +7,7 @@ Chinese. 教育部分的 Prompt 主要面向托福学习，并使用中文回复
 
 ## Education
 
-- [Learn a New Topic from Scratch](education/learn-a-new-topic.md) — Learn an unfamiliar subject step by step through adaptive questions and answers.
+- [Learn a New Topic Systematically](education/learn-a-new-topic.md) — Learn an unfamiliar subject through a knowledge map, a sourced real-world case, staged explanations, and adaptive checks.
 
 ## Skills and Plugin
 
@@ -17,8 +17,8 @@ automatically discoverable workflows.
 
 ### Included Skills
 
-- `learn-new-topic` — Teach a complete beginner through adaptive,
-  one-question-at-a-time tutoring.
+- `learn-new-topic` — Teach a complete beginner with a knowledge map, a
+  researched real-world case, staged explanations, and understanding checks.
 
 ### Install for local testing
 

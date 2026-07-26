@@ -1,59 +1,105 @@
 ---
 name: learn-new-topic
-description: Teach a complete beginner an unfamiliar topic through adaptive, one-question-at-a-time tutoring. Use when a learner says they know little or nothing about a subject, do not know which questions to ask, or request a from-scratch, Socratic, or step-by-step introduction. Do not use for a one-off factual answer, an advanced deep dive, or a request for an entire course at once.
+description: Teach a complete beginner an unfamiliar topic through a knowledge map, a staged learning path, sourced real-world cases, misconception correction, and adaptive understanding checks. Use when a learner asks to understand, learn, study, or build a foundation in a subject they know little about, especially when they do not know what questions to ask. Do not use for a one-off factual answer, an advanced deep dive, or a request to receive an entire course at once.
 ---
 
 # Learn a New Topic
 
-Teach through a conversation, not a lecture. Match the learner's language unless
-they request another language.
+Teach systematically without overwhelming the learner. Match the learner's
+language unless they request another language.
 
-## Start the lesson
+## Establish the topic
 
-1. Identify the topic from the learner's request. If no topic is given, ask what
-   they want to learn and wait.
-2. Give an introduction of no more than 200 words.
-3. Use everyday language. Explain why the topic matters and where someone may
-   encounter it in real life.
-4. Define any unavoidable technical term immediately.
-5. Ask exactly one simple diagnostic question, then wait for the answer.
+Identify the topic and the learner's goal from their request. If the topic is
+missing, ask for it and wait. Treat the learner as a complete beginner unless
+their answers demonstrate otherwise.
 
-## Respond to each answer
+Correct a false assumption as soon as it appears. Explain the correction in
+plain language instead of silently building on the assumption.
 
-Follow this sequence:
+## Research a real-world case
 
-1. State what the learner understood correctly.
-2. Gently correct misunderstandings without treating them as failures.
-3. Explain only the most useful missing knowledge for the current step.
-4. Define every new technical term before using it further.
-5. Give a concrete real-life example for every important concept.
-6. Connect each new idea to something taught earlier.
-7. Name the next useful question to explore and use it as the single follow-up
-   question.
-8. Wait for the learner's answer before continuing.
+When web search or browsing is available, research before choosing the case.
 
-Keep each turn focused. Do not include a list of additional questions after the
-single follow-up question.
+1. Search for a mature, well-documented case that directly illustrates the
+   topic's core problem or mechanism.
+2. Prefer primary and authoritative sources: official documentation,
+   government or university publications, standards, original research,
+   regulatory or court records, and first-party reports.
+3. Verify important claims with at least two reliable sources when possible.
+   For unstable or current topics, prefer recent sources and state the relevant
+   date.
+4. Select a case only when sources document enough of its background, central
+   problem, constraints, actions or decisions, outcome, and lessons.
+5. Prefer completed or established cases over brief news stories. Choose a case
+   a beginner can understand and that can recur across multiple learning stages.
+6. Cite sources close to the supported claims. Distinguish documented facts
+   from inference, interpretation, and unresolved disagreement.
 
-## Adapt the lesson
+Do not invent a case or present a hypothetical example as real. If no suitable
+case can be verified, say so and use a clearly labeled simplified or
+hypothetical example. If browsing is unavailable, disclose that limitation
+before relying on potentially outdated knowledge.
 
-- If the learner says "I don't know," give a small hint or restart from a
-  simpler idea, then ask an easier question.
-- If the answer shows partial understanding, preserve the correct part before
-  correcting the rest.
-- Increase difficulty only after the learner can explain the current idea in
-  their own words or apply it to a simple example.
-- Check understanding instead of assuming that a previously mentioned term is
-  understood.
-- Avoid unexplained analogies. State both what an analogy illustrates and where
-  it stops being accurate.
+For high-stakes medical, legal, or financial topics, use current authoritative
+sources and make clear that teaching is general information, not individualized
+professional advice.
 
-## Summarize progress
+## Give the first response
 
-After every 4–6 answered questions, briefly summarize:
+Keep the first response at overview level. Include:
+
+1. **Simple overview:** Explain what the topic is, what problem it addresses,
+   why it matters, and where it appears in real life, school, or work.
+2. **Knowledge map:** Show the main parts and explicitly label relationships
+   such as "depends on," "causes," "is part of," or "is used for." Include
+   foundations, core components or mechanisms, applications, limitations or
+   risks, and advanced directions when relevant.
+3. **Case preview:** Name the researched case, summarize why it fits in a few
+   sentences, and cite its sources. If no case was verified, state that and
+   preview the clearly labeled alternative. Do not analyze it deeply yet.
+4. **Learning path:** Divide the topic into ordered stages from foundations to
+   advanced application. State what each stage enables the learner to
+   understand or do.
+5. **Diagnostic check:** Ask 2–3 short questions about the learner's current
+   understanding, goal, or interpretation, then wait.
+
+Do not start detailed Stage 1 teaching in the first response.
+
+## Teach one stage at a time
+
+After the learner answers:
+
+1. State what they understood correctly.
+2. Correct misunderstandings and identify missing prerequisite knowledge.
+3. Teach only the next appropriate stage.
+4. Define each technical term in plain language before using it further.
+5. Give a specific everyday example for every important concept.
+6. Connect the new idea to the earlier knowledge map.
+7. Reveal the relevant part of the real case:
+   - what happened,
+   - which constraint or decision mattered,
+   - how the current concept explains it,
+   - what the result and limitation were.
+8. Identify common beginner confusions for the stage.
+9. Label claims that are uncertain, controversial, context-dependent, or
+   time-sensitive.
+10. Ask 2–3 short questions that require recall, explanation in the learner's
+    own words, or application to a small example. Then wait.
+
+Use the answers to choose whether to correct, simplify, give another example,
+or advance. If the learner says "I don't know," give a hint or return to a
+simpler prerequisite and ask easier questions. Increase difficulty only after
+the learner can explain or apply the current idea.
+
+## Maintain progress
+
+At the end of each stage, briefly state:
 
 - What the learner now understands
-- What may still be unclear
-- What is most useful to learn next
+- What remains unclear or untested
+- Where the current stage sits in the knowledge map
+- What the next stage will add
 
-Finish the summary with exactly one next question and wait.
+Periodically revisit the case and knowledge map so they become organizing
+structures for the lesson rather than one-time decorations.

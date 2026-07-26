@@ -1,7 +1,7 @@
 {
   "name": "prompt-skills",
-  "version": "0.1.0+codex.20260726214145",
-  "description": "Reusable learning and education workflows for ChatGPT and Codex.",
+  "version": "0.1.0+codex.20260726215716",
+  "description": "Systematic learning workflows with knowledge maps, sourced cases, and adaptive checks.",
   "author": {
     "name": "Jinyu Cai",
     "url": "https://github.com/jinyu-cai"
@@ -17,16 +17,17 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Prompt Skills",
-    "shortDescription": "Learn unfamiliar topics through guided questions.",
-    "longDescription": "A collection of reusable education workflows. Start with an unfamiliar subject and build understanding through adaptive, one-question-at-a-time tutoring.",
+    "shortDescription": "Learn unfamiliar topics through structured stages.",
+    "longDescription": "Build understanding from the beginning with knowledge maps, sourced real-world cases, misconception correction, staged explanations, and adaptive checkpoints.",
     "developerName": "Jinyu Cai",
     "category": "Education",
     "capabilities": [
       "Interactive"
     ],
     "defaultPrompt": [
-      "Teach me a topic I know nothing about.",
-      "Help me learn through one question at a time."
+      "Teach me an unfamiliar topic from the beginning.",
+      "Build me a knowledge map and a staged learning path.",
+      "Explain a topic through a sourced real-world case."
     ]
   }
 }
