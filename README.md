@@ -1,10 +1,3 @@
-# Prompt Skills
-
-Prompts and reusable Skills personally crafted for different AI models.
-
-The education section primarily focuses on TOEFL learning and responds in
-Chinese. 教育部分的 Prompt 主要面向托福学习，并使用中文回复。
-
 ## Education
 
 - [Learn a New Topic Systematically](education/learn-a-new-topic.md) — Learn an unfamiliar subject through a knowledge map, a sourced real-world case, staged explanations, and adaptive checks.
